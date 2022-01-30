@@ -11,5 +11,7 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author" :  "Enrico Aestel"
+	{
+		"author": "Enrico Aestel"
+	}
 }
